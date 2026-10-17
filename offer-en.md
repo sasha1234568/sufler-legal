@@ -6,7 +6,7 @@
 
 This offer is addressed to users of Sufler for iPhone and iPad and its companion script library for Mac. The operator and offering party is Individual Entrepreneur Hanna Drabysheuskaya, Georgian identification number 305652889, address: Georgia, Tbilisi, Vake District, Besarion Zhgenti Street, N 49, Floor 1, Apartment N 20, email: saveo.info@gmail.com.
 
-The operator grants the user the right to install and use the app as a software tool to create and store scripts, read them with scrolling, and optionally match spoken words to the text. This offer is not an offer for a paid subscription or a data-hosting service operated by Sufler.
+The operator grants the user the right to install and use the app as a software tool to create and store scripts, read them with scrolling, and optionally match spoken words to the text. The first 10 minutes of active teleprompter use are free. After that limit is used, continued scrolling requires a monthly subscription purchased through the App Store.
 
 ## 2. Acceptance
 
@@ -14,7 +14,11 @@ Users can review this offer before using the app. Installing and using the app a
 
 ## 3. Price and term
 
-As of this revision, the app is free. The operator does not charge for app features; the app has no subscription, advertising, or in-app purchases. Installing the app through the App Store may also be subject to Apple’s separate terms. This offer does not create an obligation for the user to pay the operator.
+The user receives a total of 10 free minutes of teleprompter use on a device. Time is counted while Play mode is active, including while voice mode listens for speech; paused time is not counted. After the limit is used, further scrolling requires the Sufler monthly auto-renewable subscription. Its base price is USD 2 per month; the App Store shows the actual price in the user’s storefront currency before purchase confirmation.
+
+The subscription is purchased and billed through Apple StoreKit using the user’s Apple Account. It automatically renews for one month at the current price until the user cancels it in Apple Account subscription settings. Subscription management and cancellation are available through the Apple Account; access through an already-paid period is governed by Apple’s terms and applicable law. Apple processes payment information; the operator does not receive it. Purchases can be restored in the app on the user’s devices signed in with the same Apple Account.
+
+Installing the app through the App Store is also subject to Apple’s separate terms. App features unrelated to teleprompter scrolling do not require a subscription.
 
 The operator grants a simple, non-exclusive, non-transferable license to install and use the app for the user’s personal or internal business purposes on Apple devices the user is authorized to use. The user may not transfer the app to third parties, distribute copies, rent the app, bypass technical restrictions, or use the app unlawfully or in a way that violates another person’s rights.
 
