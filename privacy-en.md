@@ -18,13 +18,17 @@ Email: [saveo.info@gmail.com](mailto:saveo.info@gmail.com).
 
 **App settings.** The selected scrolling mode and certain app preferences are stored in the app’s settings storage on the device.
 
+**Free-time counter.** The app counts time while the teleprompter’s Play mode is active, including voice mode while it is listening for speech. The counter is stored locally in Keychain and the app’s settings on the device and is used only to enforce the free limit. The operator does not receive this counter.
+
+**Purchases and subscriptions.** If a user purchases a monthly subscription, the app uses StoreKit to request the available product from Apple and verify purchase status. Apple processes the payment and Apple Account information under its own terms and privacy policy. The operator does not receive card details or keep a separate payment history on its own server.
+
 **Microphone and speech recognition.** The microphone is used only after the user starts voice scrolling and grants permission. Sufler streams audio to an Apple system component for recognition and receives recognized text to move the reading position. The app does not create an audio recording or send audio to its own server.
 
 On iOS 26 and later, the app first uses the available Apple Speech streaming technology. In compatible configurations, recognition runs on the device. For some languages, system versions, or when local speech resources are unavailable, the system’s SFSpeechRecognizer may send audio to Apple for recognition. The app also provides up to 100 contextual words from the script to the system recognizer to improve accuracy. As a result, when voice scrolling is used, audio, contextual words, and recognition results may be processed by Apple according to Apple’s terms and the device settings. On-device processing depends on iOS, language, and the installed speech model.
 
 ## Who receives data
 
-Sufler does not use its own server, advertising networks, third-party analytics, account registration, or in-app payments. Script data is sent to iCloud only to sync privately between the user’s devices. Audio and contextual words may be sent to Apple systems only when voice scrolling is used, as described above. Apple’s [iCloud and CloudKit terms](https://www.apple.com/legal/privacy/) and [Privacy Policy](https://www.apple.com/legal/privacy/) govern Apple’s processing.
+Sufler does not use its own server, advertising networks, third-party analytics, or account registration. The free-time counter is stored only on the device. Subscription purchases and status checks use Apple StoreKit; Apple processes payment data. Script data is sent to iCloud only to sync privately between the user’s devices. Audio and contextual words may be sent to Apple systems only when voice scrolling is used, as described above. Apple’s [iCloud and CloudKit terms](https://www.apple.com/legal/privacy/) and [Privacy Policy](https://www.apple.com/legal/privacy/) govern Apple’s processing.
 
 If a user emails the operator, the operator receives the sender’s address and the information included in the message. This information is used to respond and is kept in the email service until the request is handled and for any period needed to meet legal obligations or protect rights.
 
