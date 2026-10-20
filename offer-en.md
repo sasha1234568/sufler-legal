@@ -1,10 +1,10 @@
-# Public Offer for Use of the Sufler App
+# Public Offer for Use of the Gazelo App
 
-**Revision date: October 17, 2026**
+**Revision date: October 20, 2026**
 
 ## 1. Parties and subject
 
-This offer is addressed to users of Sufler for iPhone and iPad and its companion script library for Mac. The operator and offering party is Individual Entrepreneur Hanna Drabysheuskaya, Georgian identification number 305652889, address: Georgia, Tbilisi, Vake District, Besarion Zhgenti Street, N 49, Floor 1, Apartment N 20, email: saveo.info@gmail.com.
+This offer is addressed to users of Gazelo for iPhone and iPad and its companion script library for Mac. The operator and offering party is Individual Entrepreneur Hanna Drabysheuskaya, Georgian identification number 305652889, address: Georgia, Tbilisi, Vake District, Besarion Zhgenti Street, N 49, Floor 1, Apartment N 20, email: saveo.info@gmail.com.
 
 The operator grants the user the right to install and use the app as a software tool to create and store scripts, read them with scrolling, and optionally match spoken words to the text. The first 10 minutes of active teleprompter use are free. After that limit is used, continued scrolling requires a monthly subscription purchased through the App Store.
 
@@ -14,7 +14,7 @@ Users can review this offer before using the app. Installing and using the app a
 
 ## 3. Price and term
 
-The user receives a total of 10 free minutes of teleprompter use on a device. Time is counted while Play mode is active, including while voice mode listens for speech; paused time is not counted. After the limit is used, further scrolling requires the Sufler monthly auto-renewable subscription. Its base price is USD 2 per month; the App Store shows the actual price in the user’s storefront currency before purchase confirmation.
+The user receives a total of 10 free minutes of teleprompter use on a device. Time is counted while Play mode is active, including while voice mode listens for speech; paused time is not counted. After the limit is used, further scrolling requires the Gazelo monthly auto-renewable subscription. Its base price is USD 2 per month; the App Store shows the actual price in the user’s storefront currency before purchase confirmation.
 
 The subscription is purchased and billed through Apple StoreKit using the user’s Apple Account. It automatically renews for one month at the current price until the user cancels it in Apple Account subscription settings. Subscription management and cancellation are available through the Apple Account; access through an already-paid period is governed by Apple’s terms and applicable law. Apple processes payment information; the operator does not receive it. Purchases can be restored in the app on the user’s devices signed in with the same Apple Account.
 
@@ -28,7 +28,7 @@ The license remains in effect while the user complies with this offer and the ap
 
 Users retain their rights in scripts they create and are responsible for the lawfulness of text they enter or import, including compliance with copyright and other people’s privacy rights.
 
-The operator does not publish scripts or receive them on its own server. The app stores the library locally and may sync it through the user’s private CloudKit database associated with their Apple Account. When using this feature, the user is also subject to Apple’s terms and iCloud settings. Voice scrolling uses Apple system services; details about audio and contextual words are described in the Sufler Privacy Policy available in the app.
+The operator does not publish scripts or receive them on its own server. The app stores the library locally and may sync it through the user’s private CloudKit database associated with their Apple Account. When using this feature, the user is also subject to Apple’s terms and iCloud settings. Voice scrolling uses Apple system services; details about audio and contextual words are described in the Gazelo Privacy Policy available in the app.
 
 ## 5. Intellectual property
 
@@ -48,7 +48,7 @@ The parties are liable to the extent required by applicable law. Nothing in this
 
 ## 8. Changes and contact
 
-The operator may update this offer when the app or legal requirements change. The new version is published on the [Sufler Public Offer page](https://github.com/sasha1234568/sufler-legal/blob/main/offer-en.md). Changes do not remove rights granted to users by mandatory applicable law.
+The operator may update this offer when the app or legal requirements change. The new version is published on the [Gazelo Public Offer page](https://github.com/sasha1234568/sufler-legal/blob/main/offer-en.md). Changes do not remove rights granted to users by mandatory applicable law.
 
 Questions, suggestions, and requests: [saveo.info@gmail.com](mailto:saveo.info@gmail.com).
 
